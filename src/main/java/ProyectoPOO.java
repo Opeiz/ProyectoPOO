@@ -92,7 +92,7 @@ public class ProyectoPOO {
                 .execute();
         */
 
-        //Del CRUD - D
+        //Del CRUD - D!
 
         /*
         DeleteDimensionRequest DELETE = new DeleteDimensionRequest()
@@ -113,7 +113,7 @@ public class ProyectoPOO {
             System.out.println("Error No Data");
         } else {
             for (List row : values){
-                System.out.printf("%s %s",row.get(0), row.get(4));
+                System.out.printf("%s %s",row.get(0), row.get(1));
             }
         }
     }

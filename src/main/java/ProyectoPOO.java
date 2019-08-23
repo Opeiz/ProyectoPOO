@@ -24,10 +24,11 @@ public class ProyectoPOO {
 
     private static Credential authorize() throws IOException, GeneralSecurityException{
 
-        InputStream in = ProyectoPOO.class.getResourceAsStream( "/credential.json");
+        InputStream inn = ProyectoPOO.class.getResourceAsStream( "/credential.json");
+
 
         GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(
-                JacksonFactory.getDefaultInstance(), new InputStreamReader(in)
+                JacksonFactory.getDefaultInstance(), new InputStreamReader(inn)
         );
 
         List<String> scopes = Arrays.asList(SheetsScopes.SPREADSHEETS);
@@ -55,7 +56,7 @@ public class ProyectoPOO {
 
     public static void main(String[] args) throws IOException, GeneralSecurityException{
         sheetsService = getSheetsService();
-        String range = "Sheet1!B2:C15";  //Rango Cuadrado de trabajo
+        String range = "B6:C15";  //Rango Cuadrado de trabajo
 
         //Del CRUD - R!
 

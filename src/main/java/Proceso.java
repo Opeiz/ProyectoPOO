@@ -2,15 +2,12 @@ import java.io.IOException;
 import java.security.GeneralSecurityException;
 import java.util.HashMap;
 
-import javax.swing.JTable;
-
 public class Proceso extends Thread {
-    Ventana ventana;
+
     SheetsQuickstart conexion;
     private static HashMap<String, String> rangos;
 
     public Proceso(SheetsQuickstart conexion) {
-        //this.ventana = ventana;
         this.conexion = conexion;
         rangos = new HashMap<String, String>();
         rangos.put("CarreraRobot", "CarreraRobot!B6:D15");
@@ -19,20 +16,6 @@ public class Proceso extends Thread {
         rangos.put("PeleaRobot", "PeleaRobot!B6:D15");
 
     }
-
-    /*
-    public void mostrarCompetencia(String rango)throws IOException, GeneralSecurityException {
-        Object[][] values = conexion.resultados(rango);
-        String[] columNames = {"Nombre de Equipo","Puntaje"};
-        Object[][] nothing = {{"",""}};
-        if (values == null || values.length == 0) {
-            ventana.nuevosResultados(new JTable(nothing,columNames));
-        }
-        else {
-           ventana.nuevosResultados(new JTable(values,columNames));
-        }
-    }
-    */
 
     public void run() {
         while (true) {

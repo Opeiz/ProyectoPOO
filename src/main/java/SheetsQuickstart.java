@@ -30,6 +30,8 @@ public class SheetsQuickstart {
     
     private String spreadsheetId;
     private Sheets service;
+
+    
     private static Credential getCredentials(final NetHttpTransport HTTP_TRANSPORT) throws IOException {
         // Load client secrets.
         InputStream in = SheetsQuickstart.class.getResourceAsStream(CREDENTIALS_FILE_PATH);
@@ -54,37 +56,6 @@ public class SheetsQuickstart {
         spreadsheetId = "1AeLMDsaj2b1PHTYW26vovGma_BuzG5H7IFDwYrH1qvw";
         service = new Sheets.Builder(HTTP_TRANSPORT, JSON_FACTORY, getCredentials(HTTP_TRANSPORT)).setApplicationName(APPLICATION_NAME).build();
     }
-
-    /*
-    public Object[][] resultados(String rango)throws IOException, GeneralSecurityException{	
-        ValueRange response = service.spreadsheets().values().get(spreadsheetId, rango).execute();
-
-        List<List<Object>> values = response.getValues();
-        int filas = 0;
-
-        Object[][] arreglo = null;
-
-        if (values == null || values.isEmpty()) {
-            System.out.println("No data found.");
-        }else{        
-            for (List row : values) {
-                System.out.println(row.get(0) + "+" + row.get(2));
-
-                if(row.get(0)!= "" && row.get(1)!= ""){
-                    filas++;
-                }
-            
-            }
-            
-            arreglo = new Object[filas][2];
-            for (int i = 0;i<filas;i++) {
-                arreglo[i][0]=values.get(i).get(0);
-                arreglo[i][1]=values.get(i).get(1);
-            }
-        }
-        return arreglo;
-    }
-    */
 
     public void ResultadosLineaComando(String rango) throws IOException, GeneralSecurityException{
         ValueRange response = service.spreadsheets()

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PeleaRobot"
+    >
+
+    <TableLayout
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id = "@+id/PeleaRobot"
+        android:stretchColumns="0">
+
+        <TableRow
+            android:id="@+id/Fila1"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+
+            <TextView
+
+                android:id="@+id/Equipo1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#b0b0b0"
+                android:padding="18dip"
+                android:text="Equipo 1"
+                android:textColor="#000"
+                android:textSize="16dp" />
+
+            <TextView
+
+                android:id="@+id/Puntaje1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#F5F5AA3B"
+                android:padding="18dip"
+                android:text="Puntaje 1"
+                android:textColor="#000"
+                android:textSize="16dp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/Fila2"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+
+            <TextView
+
+                android:id="@+id/Equipo2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#b0b0b0"
+                android:padding="18dip"
+                android:text="Equipo 2"
+                android:textColor="#000"
+                android:textSize="16dp" />
+
+            <TextView
+
+                android:id="@+id/Puntaje2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#757474"
+                android:padding="18dip"
+                android:text="Puntaje 2"
+                android:textColor="#000"
+                android:textSize="16dp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/Fila3"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+
+            <TextView
+
+                android:id="@+id/Equipo3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#b0b0b0"
+                android:padding="18dip"
+                android:text="Equipo 3"
+                android:textColor="#000"
+                android:textSize="16dp" />
+
+            <TextView
+
+                android:id="@+id/Puntaje3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#FF4322"
+                android:padding="18dip"
+                android:text="Puntaje 3"
+                android:textColor="#000"
+                android:textSize="16dp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/Fila4"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+
+            <TextView
+
+                android:id="@+id/Equipo4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#b0b0b0"
+                android:padding="18dip"
+                android:text="Equipo 4"
+                android:textColor="#000"
+                android:textSize="16dp" />
+
+            <TextView
+
+                android:id="@+id/Puntaje4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#b0b0b0"
+                android:padding="18dip"
+                android:text="Puntaje 4"
+                android:textColor="#000"
+                android:textSize="16dp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/Fila5"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+
+            <TextView
+
+                android:id="@+id/Equipo5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#b0b0b0"
+                android:padding="18dip"
+                android:text="Equipo 5"
+                android:textColor="#000"
+                android:textSize="16dp" />
+
+            <TextView
+
+                android:id="@+id/Puntaje5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#b0b0b0"
+                android:padding="18dip"
+                android:text="Puntaje 5"
+                android:textColor="#000"
+                android:textSize="16dp" />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/CampeonatePeleaRobot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:textSize="25dp"
+        android:textColor="#000000"
+        android:text="Campeonato Pelea Robot" />
+
+</RelativeLayout>

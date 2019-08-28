@@ -6,6 +6,18 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.probandojava.config.Config;
+import com.google.api.client.extensions.android.http.AndroidHttp;
+import com.google.api.client.http.HttpTransport;
+import com.google.api.client.json.JsonFactory;
+import com.google.api.client.json.jackson2.JacksonFactory;
+import com.google.api.services.sheets.v4.Sheets;
+import com.google.api.services.sheets.v4.model.ValueRange;
+
+import java.io.IOException;
+import java.util.List;
+
+
 public class MainActivity extends AppCompatActivity {
     private Button buttonCarreraRobot, buttonLaberintoRobot,buttonPeleaRobot,buttonSeguirLinea;
 
@@ -41,6 +53,15 @@ public class MainActivity extends AppCompatActivity {
                 openSeguirLinea();
             }
         });
+
+        /*
+        new Thread() {
+            @Override
+            public void run() {
+
+            }
+        }.start();
+        */
     }
 
     public void openCarreraRobot() {
@@ -58,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void openPeleaRobot() {
+    public void openPeleaRobot(){
         Intent intent = new Intent(this, PeleaRobot.class);
         startActivity(intent);
     }

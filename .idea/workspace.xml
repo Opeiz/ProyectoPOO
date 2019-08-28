@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9879b6b1-c176-4ae7-bc67-1dd5a24d7d12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ProyectoPooAS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProyectoPooAS/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoPooAS/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoPooAS/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/java/com/example/probandojava/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/java/com/example/probandojava/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/res/layout/activity_carrera_robot.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/res/layout/activity_carrera_robot.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/res/layout/activity_laberinto_robot.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/res/layout/activity_laberinto_robot.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/res/layout/activity_pelea_robot.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/res/layout/activity_pelea_robot.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/res/layout/activity_seguir_linea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoPooAS/app/src/main/res/layout/activity_seguir_linea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/myapplication2/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/myapplication2/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/workspace-id.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gradle/workspace-id.txt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ProyectoPooAS/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/androidTest/java/com/example/probandojava/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/main/java/com/example/probandojava/CarreraRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/main/java/com/example/probandojava/LaberintoRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/main/java/com/example/probandojava/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/main/java/com/example/probandojava/PeleaRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/main/java/com/example/probandojava/SeguirLinea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/main/res/layout/activity_carrera_robot.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/main/res/layout/activity_carrera_robot.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/app/src/test/java/com/example/probandojava/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ProyectoPooAS/lib/src/main/java/com/example/lib/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/androidTest/java/com/example/myapplication2/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/app/src/test/java/com/example/myapplication2/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bin/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bin/main/Proceso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bin/main/SheetsQuickstart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bin/main/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/build/resources/main/credentials (3).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Proceso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/SheetsQuickstart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Proceso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/SheetsQuickstart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tokens/StoredCredential" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/credentials (3).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Proceso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SheetsQuickstart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tokens/StoredCredential" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProyectoPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyectoPOO" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ProyectoPOO" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9879b6b1-c176-4ae7-bc67-1dd5a24d7d12" name="Default Changelist" comment="" />
+      <created>1566863515443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566863515443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32982087" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>

@@ -21,6 +21,15 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     private Button buttonCarreraRobot, buttonLaberintoRobot,buttonPeleaRobot,buttonSeguirLinea;
 
+    HttpTransport transport = AndroidHttp.newCompatibleTransport();
+    JsonFactory factory = JacksonFactory.getDefaultInstance();
+    final Sheets sheetsService = new Sheets.Builder(transport, factory, null)
+            .setApplicationName("Competencia Robotica")
+            .build();
+
+    final String spreadsheetId = Config.spreadsheet_id;
+
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -35,33 +44,46 @@ public class MainActivity extends AppCompatActivity {
                 openCarreraRobot();
             }
         });
-
         buttonLaberintoRobot.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 openLaberintoRobot();
             }
         });
-
         buttonPeleaRobot.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 openPeleaRobot();
             }
         });
-
         buttonSeguirLinea.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 openSeguirLinea();
             }
         });
 
-        /*
         new Thread() {
             @Override
             public void run() {
+                try {
+                    String range = "CarreraRobot!A2:B6";
+                    ValueRange result = sheetsService.spreadsheets().values()
+                            .get(spreadsheetId, range)
+                            .setKey(Config.google_api_key)
+                            .execute();
 
+                    List<List<Object>> values = result.getValues();
+
+                    System.out.println(values);
+                    System.out.println("Equipos" + "Puntajes");
+                    for (List row : values){
+                        System.out.println(values.get(0));
+                        System.out.println(values.get(1));
+                    }
+                }
+                catch (IOException e) {
+                    System.out.println("Sheets failed" + e.getLocalizedMessage());
+                }
             }
         }.start();
-        */
     }
 
     public void openCarreraRobot() {
